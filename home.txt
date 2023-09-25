@@ -1,0 +1,92 @@
+<div id="texts">
+        <h1 class="titre">Bienvenue sur le portfolio de <strong>Lionel Lite</strong> ! </h1>
+<h2> Quoi de neuf ? </h2>
+<h3> En savoir plus sur moi ? <br><br><br> </h3>
+</div>
+
+
+<p>Lionel est un étudant en informatique passionné par les nouvelles  technologies et les possibilité qu'elles offrent. Il est motivé par l'idée de mettre en pratique ses connaissances et de développer ses compétences en travaillant en freelance. Bien qu'il soit encore débutant dans ce domaine, Lionel est en plein de détermination et d'enthousiasme pour se lancer dans cette aventure.</p><br><br>
+
+<p>En tant qu'étudiant, Lionel a déjà acquis des bases solides en programmation et en développement web. Il a suivi des cours et des formations pour se familiariser avec les langages de programmation courants et les technologies utilisées dans l'industrie. Il est capable de créer des sites web simples et de résoudre des problèmes techniques basiques.</p><br><br>
+
+<p>Cependant, Lionel sait qu'il a encore beaucoup à apprendre et à découvrir dans le monde du freelance. Il est ouvert aux nouvelles opportunités et prêt à relever les défis qui se présentent à lui. Il comprend que chaque projet est une occasion d'apprendre et de grandir en tant que professionnel de l'informatique.</p><br><br>
+
+<p>Travailler en freelance offre à Lionel une flexibilité et une liberté qu'il apprécie énormément. Il est prêt à consacrer du temps et des efforts pour trouver des projets intéressants et développer sa clientèle. Il est conscient de l'importance de se faire connaître et de construire une réputation solide dans le domaine.</p><br><br>
+
+<p>En tant que débutant dans le domaine du freelance, Lionel est ouvert aux conseils et aux retours d'expérience des professionnels plus expérimentés. Il est prêt à apprendre et à s'améliorer continuellement pour offrir un service de qualité à ses clients. Sa passion pour l'informatique et sa volonté de réussir font de lui un professionnel prometteur dans le monde du freelance.
+</p><br><br>
+
+<img src="img/IMG_20230920_142111_transcpr.png" style="width: 196px; height: 256px; position: relative; display: inline-block; left: 30%;">
+<h1>Lionel Napoléon S. ADOUKONOU HINKPON</h1>
+
+<h2><br><img src="svg/information-circle.svg" class="icons">Information personnelles<br><br></h2>
+
+<p><em><img src="svg/calendar-number.svg" class="icons"> Date et lieu de naissance :</em> 22/03/2005 à Pahou<br>
+<img src="svg/man.svg" class="icons">Sexe : Masculin<br>
+<img src="svg/location.svg" class="icons">Nationalité : Béninoise<br> 
+<img src="svg/logo-whatsapp.svg" class="icons">Téléphone : +229 58 31 34 63<br>
+<img src="svg/mail-open.svg" class="icons">Courrier : liolisena@gmail.com<br><br><br>
+</p>
+
+<h2><img src="svg/pencil.svg" class="icons">Bio</h2>
+<p>Je suis étudiant en Génie Électrique et Informatique option Informatique et Télécommunications, à l'Institut National Supérieur de Technologie de Lokossa, Bénin. Je travaille aussi en freelance sur le <strong>Développement Web</strong>, la <strong>programmation</strong>, Création des applications, <strong>graphism design</strong>. À l'avenir, j'aimerai me spécialiser en <strong>Intelligence Artificiel</strong> 😊👍</p>
+
+<!--
+<h2 class="titre"><br><br><br> <img src="svg/school.svg" class="icons"> Parcours scolaire<br><br></h2>
+
+<p>J'ai fais mon Cours primaire à l'École Primaire Publique d'<strong>Ahozon</strong>, où j'ai obtenu mon Cetificat d'Études Primaires. Ensuite j'ai fait le Collège d'Enseignement Générale de <strong>Pahou</strong> où j'ai obtenu mon Brevet d'Étude du Premier Cycle et mon Baccalauréat série D. actuellement je suis étudiant dans l'Université Nationale des Sciences, de Techniques, d'Ingénierie et de Mathématiques (<strong>UNSTIM</strong>) d'<strong>Abomey</strong>, dans son Institut National Supérieur de Technologie de <strong>Lokossa</strong> (<strong>INSTI-LOKOSSA</strong>).<br><br><br><br><br></p>-->
+
+
+<h3><br><br><br>Passionné des livres ? Vous pouvez visiter ma bibliothèque numérique en cliquant sur l'icone de livre dans la barre des menus.</h3>
+
+<!-- services -->
+
+
+<h1><br><br>Demander un service ?<br><br></h1>
+
+<form action="traitement.php" method="POST" style="text-align: center; font-size: 20px;">
+  <label for="name">Nom<br></label>
+  <input type="name" name="name" class="mail" style="width: 200px; height: 30px; font-size: 20px;" required> <br><br>
+
+  <label for="email">Adresse E-mail:<br></label>
+  <input type="email" name="email" class="mail" style="width: 200px; height: 30px; font-size: 20px;" required> <br><br>
+  
+  <label for="service">Service désiré :<br></label>
+  <select name="service" id="service" style="width:200px; height: 30px; font-size: 20px;" required>
+    <option value="Création de sites web/blogs" >Création de sites web/blogs</option>
+    <option value="Rédaction web" >Rédaction web</option>
+    <option value="Installation/maintenace des systèmes d'exploitation" >Installation/maintenace des systèmes d'exploitation</option>
+    <option value="Installation/activation de pack de logiciels" >Installation/activation de pack de logiciels</option>
+    <option value="Création d'affiche, carte professionnelle, calendriers et logos" >Création d'affiche, carte professionnelle, calendriers et logos</option>
+  </select><br><br>
+
+  <label for="description">Description détaillé :</label><br>
+  <textarea id="description" name="description" style="width: 250px; height: 100px;" required></textarea><br><br>
+
+  <input type="submit" class="in" value="valider" style="width: 200px; height: 30px; font-size: 20px;">
+    
+</form>
+
+
+
+
+  <h2> <br><br>Liens de mes comptes sociaux : <br><br></h2>
+<p>
+<a href="https://www.facebook.com/profile.php?id=100078270814119" class="a"><img src="svg/logo-facebook.svg" class="ilink"> Facebook</a><br><br>
+
+<a href="wa.me/+22958313463" class="a"><img src="svg/logo-whatsapp.svg" class="ilink">WhatsApp</a> <br><br>
+
+<a href="t.me/lionellite" class="a"><img src="svg/telegram.svg" class="ilink">Telegram</a> <br><br>
+
+<a href="https://instagram.com/lionellite1?igshid=OGY3MTU3OGY1Mw==" class="a"><img src="logo-instagram.svg" class="ilink">Instagram</a>  <br><br>
+
+<a href="https://www.linkedin.com/in/lionellite" class="a"><img src="svg/logo-linkedin.svg" class="ilink">LinkedIn</a> <br><br>
+
+<a href="liolisena@gmail.com" class="a" target="mail"><img src="svg/mail-open" class="ilink">Email</a> <br><br>
+
+<a href="https://github.com/Lionel88hack" class="a"><img src="svg/logo-github.svg" class="ilink">GitHub</a> <br><br><br>
+
+
+</p> 
+<p><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> </p>
+

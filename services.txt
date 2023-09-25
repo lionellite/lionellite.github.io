@@ -1,0 +1,27 @@
+
+<h1>Demander un service ?<br><br></h1>
+<p>Travailler en freelance offre à Lionel une flexibilité et une liberté qu'il apprécie énormément. Il est prêt à consacrer du temps et des efforts pour trouver des projets intéressants et développer sa clientèle. Il est conscient de l'importance de se faire connaître et de construire une réputation solide dans le domaine.</p>
+<h3><br><br>Vous pouvez demander un service ! ce sera fait à des prix intéressants ! ;)<br><br></h3>
+
+<form action="traitement.php" method="POST">
+  <label for="name">Nom<br></label>
+  <input type="name" name="name" class="mail" required> <br><br>
+
+  <label for="email">Adresse E-mail:<br></label>
+  <input type="email" name="email" class="mail" required> <br><br>
+  
+  <label for="service">Service désiré :<br></label>
+  <select name="service" id="service" required>
+    <option value="Création de sites web/blogs" >Création de sites web/blogs</option>
+    <option value="Rédaction web" >Rédaction web</option>
+    <option value="Installation/maintenace des systèmes d'exploitation" >Installation/maintenace des systèmes d'exploitation</option>
+    <option value="Installation/activation de pack de logiciels" >Installation/activation de pack de logiciels</option>
+    <option value="Création d'affiche, carte professionnelle, calendriers et logos" >Création d'affiche, carte professionnelle, calendriers et logos</option>
+  </select><br><br>
+
+  <label for="description">Description détaillé :</label><br>
+  <textarea id="description" name="description" required></textarea><br><br>
+
+  <input type="submit" class="in" value="valider">
+    
+</form>

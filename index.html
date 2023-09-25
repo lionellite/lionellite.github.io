@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Magic Navigation Menu Indicator</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+
+    <header>
+        
+    </header>
+
+    <section id="contenu" > <!--
+        <h1 class="titre">Bienvenue sur le portfolio de <strong>Lionel Lite</strong> ! </h1>
+        <h2> Quoi de neuf ? </h2>
+        <a href="lorem.txt" class="list"> En savoir plus sur moi</a> -->
+        
+    </section>
+<!-- partial:index.partial.html -->
+<div class="navigation">
+        <ul>
+            <li class="list active" >
+                <a href="index.html" id="Home" >
+                    <span class="icon">
+                        <img src="svg/home-outline.svg" class="icons">
+                    </span>
+                    <span class="text">Home</span>
+                </a>
+            </li>
+            <li class="list" href="profile.txt" id="Profile" >
+                <a >
+                    <span class="icon">
+                        <img src="svg/person-outline.svg" class="icons">
+                    </span>
+                    <span class="text">Profile</span>
+                </a>
+            </li>
+            <li class="list" href="livres.txt" id="Message">
+                <a >
+                    <span class="icon">
+                        <img src="svg/chatbubbles-outline.svg" class="icons">
+                    </span>
+                    <span class="text">Chats</span>
+                </a>
+            </li>
+            <li class="list" href="photos.txt" id="Photos">
+                <a >
+                    <span class="icon">
+                        <img src="svg/image-outline.svg" class="icons">
+                    </span>
+                    <span class="text">Photos</span>
+                </a>
+            </li>
+            <li class="list" href="services.txt" id="Services">
+                <a >
+                    <span class="icon">
+                        <img src="svg/md-log-in.svg" class="icons">
+                    </span>
+                    <span class="text">Services</span>
+                </a>
+            </li>
+            <div class="indicator"></div>
+        </ul>
+    </div>
+<!-- partial -->
+  <script src='https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js'></script>
+<script src='https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js'></script>
+
+<script  src="./script.js"></script>
+<script type="text/javascript">
+    chargerContenu("home.txt");
+</script>
+
+</body>
+</html>

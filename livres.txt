@@ -1,0 +1,19 @@
+<p>
+  <h1>Liens de mes comptes sociaux :<br><br></h1> <br><br>
+
+<a href="https://www.facebook.com/profile.php?id=100078270814119" class="a"><img src="svg/logo-facebook.svg" class="ilink"> Facebook</a><br><br>
+
+<a href="wa.me/+22958313463" class="a"><img src="svg/logo-whatsapp.svg" class="ilink">WhatsApp</a> <br><br>
+
+<a href="t.me/lionellite" class="a"><img src="svg/telegram.svg" class="ilink">Telegram</a> <br><br>
+
+<a href="https://instagram.com/lionellite1?igshid=OGY3MTU3OGY1Mw==" class="a"><img src="logo-instagram.svg" class="ilink">Instagram</a>  <br><br>
+
+<a href="https://www.linkedin.com/in/lionellite" class="a"><img src="svg/logo-linkedin.svg" class="ilink">LinkedIn</a> <br><br>
+
+<a href="liolisena@gmail.com" class="a" target="mail"><img src="svg/mail-open" class="ilink">Email</a> <br><br>
+
+<a href="https://github.com/Lionel88hack" class="a"><img src="svg/logo-github.svg" class="ilink">GitHub</a> <br><br><br>
+
+
+</p> 

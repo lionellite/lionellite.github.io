@@ -1,0 +1,2 @@
+<i>Cette section est en cours de développement, et peut donc paraitre vide pour le moment. <br><br><br> </i>
+<img src="img/postcard.jpg" class="photos">

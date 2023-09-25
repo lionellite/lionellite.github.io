@@ -1,0 +1,21 @@
+<img src="img/IMG_20230920_142111_transcpr.png" style="width: 196px; height: 256px; position: relative; display: inline-block; left: 30%;">
+<h1>Lionel Napoléon S. ADOUKONOU HINKPON</h1>
+
+<h2><br><img src="svg/information-circle.svg" class="icons">Information personnelles<br><br></h2>
+
+<p><em><img src="svg/calendar-number.svg" class="icons"> Date et lieu de naissance :</em> 22/03/2005 à Pahou<br>
+<img src="svg/man.svg" class="icons">Sexe : Masculin<br>
+<img src="svg/location.svg" class="icons">Nationalité : Béninoise<br> 
+<img src="svg/logo-whatsapp.svg" class="icons">Téléphone : +229 58 31 34 63<br>
+<img src="svg/mail-open.svg" class="icons">Courrier : liolisena@gmail.com<br><br><br>
+</p>
+
+<h2><img src="svg/pencil.svg" class="icons">Bio</h2>
+<p>Je suis étudiant en Génie Électrique et Informatique option Informatique et Télécommunications, à l'Institut National Supérieur de Technologie de Lokossa, Bénin. Je travaille aussi en freelance sur le <strong>Développement Web</strong>, la <strong>programmation</strong>, Création des applications, <strong>graphism design</strong>. À l'avenir, j'aimerai me spécialiser en <strong>Intelligence Artificiel</strong> 😊👍</p>
+
+
+<h2 class="titre"><br><br><br> <img src="svg/school.svg" class="icons"> Parcours scolaire<br><br></h2>
+
+<p>J'ai fais mon Cours primaire à l'École Primaire Publique d'<strong>Ahozon</strong>, où j'ai obtenu mon Cetificat d'Études Primaires. Ensuite j'ai fait le Collège d'Enseignement Générale de <strong>Pahou</strong> où j'ai obtenu mon Brevet d'Étude du Premier Cycle et mon Baccalauréat série D. actuellement je suis étudiant dans l'Université Nationale des Sciences, de Techniques, d'Ingénierie et de Mathématiques (<strong>UNSTIM</strong>) d'<strong>Abomey</strong>, dans son Institut National Supérieur de Technologie de <strong>Lokossa</strong> (<strong>INSTI-LOKOSSA</strong>).<br><br><br><br><br></p>
+
+
