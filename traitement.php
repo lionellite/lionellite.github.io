@@ -4,7 +4,7 @@ $email = $_POST['email'];
 $message = $_POST['description'];
 $sujet = $_POST['service']
 
-
+/*
 if (empty($nom)||empty($email)empty($message)) {
 	echo "Veillez remplire tous les champs du formulaire.";
 } else {
@@ -20,6 +20,6 @@ if (empty($nom)||empty($email)empty($message)) {
 		echo "Une erreur s'est produite lors de l'envoi. Veillez réessayer.";
 	}
 
-}
+}*/
 
 ?>
